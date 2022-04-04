@@ -19,3 +19,5 @@ Illustration of codes:
 4. Trolly_tracking folder: this folder contains some setting of the "trolly_tracking" app.
 5. deepsort.py is a testing demo of tracking algorithm that can test the model locally.
 6. manage.py is the entrance of the django server.
+7. Details of Utils folder
+8. Details of modelweights
